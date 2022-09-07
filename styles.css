@@ -1,0 +1,20 @@
+/*
+To call out a class in CSS the tag should include . (dot) before the classname
+*/
+
+.headings {
+    background-color: blue;
+    font-size: medium;
+}
+
+/* 
+To call out an ID in CSS, the tag should include # (hashtag) before the idName.
+*/
+
+#mainHeading {
+    background-color: red;
+}
+
+#firstFieldset {
+    background-image: url(./images/jay-wennington-s-fD5Tpew2k-unsplash.jpg);
+}
